@@ -1,0 +1,223 @@
+{
+  "v1": [
+    {
+      "idPart": 0,
+      "propositions": [
+        "Pharaon ",
+        "nil",
+        "pyramide",
+        "hieroglyphes",
+        "Alexandrie"
+      ],
+      "response": "egypte"
+    },
+
+
+    {
+      "idPart": 1,
+      "propositions": [
+        "plus ",
+        "moins",
+        "equation",
+        "matrice",
+        "theoreme"
+      ],
+      "response": "math"
+    },
+
+
+    {
+      "idPart": 2,
+      "propositions": [
+        "crainte ",
+        "angoisse",
+        "phobie",
+        "alarme",
+        " trouille"
+      ],
+      "response": "peur"
+    },
+
+
+    {
+      "idPart": 3,
+      "propositions": [
+        "vallee",
+        "pic",
+        "neige",
+        "paysage",
+        "Pyrenees"
+
+      ],
+      "response": "montagne"
+    },
+
+
+    {
+      "idPart": 4,
+      "propositions": [
+        "reseau ",
+        "ordinateur",
+        "toile",
+        "cybercafe",
+        "Firefox"
+      ],
+      "response": "internet"
+    },
+
+
+    {
+      "idPart": 5,
+      "propositions": [
+        "maillot",
+        "soccer",
+        "club",
+        "Bundesliga",
+        "Zidane"
+      ],
+      "response": "football"
+    },
+
+
+    {
+      "idPart": 6,
+      "propositions": [
+        "plus ",
+        "moins",
+        "equation"
+      ],
+      "response": "math"
+    },
+
+
+    {
+      "idPart": 7,
+      "propositions": [
+        "Celtics",
+        "kobe bryant",
+        "sportif",
+        "panier",
+        "NBA"
+      ],
+      "response": "basketball"
+    },
+
+
+    {
+      "idPart": 8,
+      "propositions": [
+        "seine ",
+        "capitale",
+        "Paname",
+        "Montmartre",
+        "Tour Eiffel"
+
+      ],
+      "response": "paris"
+    },
+
+
+    {
+      "idPart": 9,
+      "propositions": [
+        "science",
+        "projet",
+        "universite",
+        "methode",
+        "these"
+      ],
+      "response": "etude"
+    },
+
+
+    {
+      "idPart": 10,
+      "propositions": [
+        "ordinateur",
+        "internet",
+        "binaire",
+        "programmation",
+        "etude"
+      ],
+      "response": "informatique"
+    },
+
+
+    {
+      "idPart": 11,
+      "propositions": [
+        "Merco",
+        "roue",
+        "moteur",
+        "essence",
+        "Peugeot"
+      ],
+      "response": "voiture"
+    },
+
+
+    {
+      "idPart": 12,
+      "propositions": [
+        "priere ",
+        "atheisme",
+        "Thor",
+        "Zeus",
+        "Allah"
+      ],
+      "response": "dieu"
+    },
+
+
+    {
+      "idPart": 13,
+      "propositions": [
+        "gouvernement",
+        "social",
+        "strategie",
+        "debat",
+        "alliance"
+      ],
+      "response": "politique"
+    },
+
+
+    {
+      "idPart": 14,
+      "propositions": [
+        "2020 ",
+        "FMI",
+        "cardiaque",
+        "economiste",
+        "catastrophe"
+      ],
+      "response": "crise"
+    },
+
+
+    {
+      "idPart": 15,
+      "propositions": [
+        "sante",
+        "traitement",
+        "grippe",
+        "guerir",
+        "pathologie"
+      ],
+      "response": "maladies"
+    },
+
+
+    {
+      "idPart": 16,
+      "propositions": [
+        "chene",
+        "planche",
+        "arbre",
+        "hetre",
+        "menuiserie"
+      ],
+      "response": "bois"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\PyramideV1.2.csprojAssemblyReference.cache
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\staticwebassets\PyramideV1.2.StaticWebAssets.Manifest.cache
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\staticwebassets\PyramideV1.2.StaticWebAssets.xml
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\PyramideV1.2.AssemblyInfoInputs.cache
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\PyramideV1.2.AssemblyInfo.cs
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\PyramideV1.2.RazorTargetAssemblyInfo.cache
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\PyramideV1.2.exe
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\PyramideV1.2.deps.json
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\PyramideV1.2.runtimeconfig.json
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\PyramideV1.2.runtimeconfig.dev.json
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\PyramideV1.2.dll
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\PyramideV1.2.pdb
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\PyramideV1.2.dll
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\PyramideV1.2.pdb
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\PyramideV1.2.csproj.CopyComplete
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\WebApiContrib.Formatting.Jsonp.dll
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Scrumfish.WebApi.v2.Filters.dll
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Scrumfish.WebApi.v2.Objects.dll
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Scrumfish.WebApi.v2.Providers.dll
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\PyramideV1.2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Data\json.json
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Data\Players.json
+C:\Users\yanis\source\repos\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Data\Player.json
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Data\Player.json
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Data\Players.json
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Data\json.json
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\PyramideV1.2.exe
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\PyramideV1.2.deps.json
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\PyramideV1.2.runtimeconfig.json
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\PyramideV1.2.runtimeconfig.dev.json
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\PyramideV1.2.dll
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\PyramideV1.2.pdb
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Scrumfish.WebApi.v2.Filters.dll
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Scrumfish.WebApi.v2.Objects.dll
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\Scrumfish.WebApi.v2.Providers.dll
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\bin\Debug\netcoreapp3.1\WebApiContrib.Formatting.Jsonp.dll
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\PyramideV1.2.csprojAssemblyReference.cache
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\staticwebassets\PyramideV1.2.StaticWebAssets.Manifest.cache
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\staticwebassets\PyramideV1.2.StaticWebAssets.xml
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\PyramideV1.2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\PyramideV1.2.AssemblyInfoInputs.cache
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\PyramideV1.2.AssemblyInfo.cs
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\PyramideV1.2.RazorTargetAssemblyInfo.cache
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\PyramideV1.2.csproj.CopyComplete
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\PyramideV1.2.dll
+C:\Users\yanis\Desktop\etudes\master\c3p\depot git\PyramideV1.2\PyramideV1.2\obj\Debug\netcoreapp3.1\PyramideV1.2.pdb
